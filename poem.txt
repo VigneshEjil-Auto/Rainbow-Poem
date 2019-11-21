@@ -2,8 +2,9 @@ master branch :
 The Rainbow colors
 
 RED
-INdico
+Indico
 blue
 Orange
 Yellow
+All colors
 
